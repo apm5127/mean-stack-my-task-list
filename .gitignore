@@ -1,4 +1,4 @@
-LICENSE
-node_modules/
-app.build/
-*.log
+**/node_modules/
+**/app.build/
+**/bower_components/
+**.log
