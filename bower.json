@@ -1,0 +1,22 @@
+{
+  "name": "mean-stack-my-task-list",
+  "description": "Simple task manager",
+  "main": "server.js",
+  "authors": [
+    "apm5127 <apm5127@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/apm5127/mean-stack-my-task-list",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "client/bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
